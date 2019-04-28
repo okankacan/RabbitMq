@@ -1,0 +1,26 @@
+ 
+
+RabbitMQ Nedir ?
+ 
+RabbitMQ ile yapýlacak istekler kuyruða alýnýp sýrasýyla iþlem yapýlmasý saðlayabiliriz. Çok yoðun bir mail iþleminiz var ise bunu rabbitmq ile kuyruða alýp performans saðlayabilirsiniz. 
+
+https://www.rabbitmq.com/install-windows.html
+
+yukarýdaki url den rabbitMQ bilgisayarýnýza yükleyin. 
+
+rabbitmqctl add_user test test
+
+yeni bir kullanýcý oluþturun.
+
+rabbitmqctl set_user_tags test administrator
+
+admin yetkisi verin. ve 
+
+rabbitmqctl set_permissions -p / test ".*" ".*" ".*"
+
+gerekli izinleri tanýmlayýn. Eðer sýrasýyla herþeyi yaptýysanýz rabbitMQ ya http://localhost:15672 üzerinden ulaþabilirsiniz.
+
+
+
+
+

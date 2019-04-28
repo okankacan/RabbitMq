@@ -1,0 +1,14 @@
+Z:\Core Çalışmaları\CoreRabbitMq\Queue\RECEIVE\bin\Debug\netcoreapp2.1\RECEIVE.deps.json
+Z:\Core Çalışmaları\CoreRabbitMq\Queue\RECEIVE\bin\Debug\netcoreapp2.1\RECEIVE.runtimeconfig.json
+Z:\Core Çalışmaları\CoreRabbitMq\Queue\RECEIVE\bin\Debug\netcoreapp2.1\RECEIVE.runtimeconfig.dev.json
+Z:\Core Çalışmaları\CoreRabbitMq\Queue\RECEIVE\bin\Debug\netcoreapp2.1\RECEIVE.dll
+Z:\Core Çalışmaları\CoreRabbitMq\Queue\RECEIVE\obj\Debug\netcoreapp2.1\RECEIVE.csproj.CoreCompileInputs.cache
+Z:\Core Çalışmaları\CoreRabbitMq\Queue\RECEIVE\obj\Debug\netcoreapp2.1\RECEIVE.AssemblyInfoInputs.cache
+Z:\Core Çalışmaları\CoreRabbitMq\Queue\RECEIVE\obj\Debug\netcoreapp2.1\RECEIVE.AssemblyInfo.cs
+Z:\Core Çalışmaları\CoreRabbitMq\Queue\RECEIVE\bin\Debug\netcoreapp2.1\RECEIVE.pdb
+Z:\Core Çalışmaları\CoreRabbitMq\Queue\RECEIVE\bin\Debug\netcoreapp2.1\Queue.dll
+Z:\Core Çalışmaları\CoreRabbitMq\Queue\RECEIVE\bin\Debug\netcoreapp2.1\Queue.pdb
+Z:\Core Çalışmaları\CoreRabbitMq\Queue\RECEIVE\obj\Debug\netcoreapp2.1\RECEIVE.csprojAssemblyReference.cache
+Z:\Core Çalışmaları\CoreRabbitMq\Queue\RECEIVE\obj\Debug\netcoreapp2.1\RECEIVE.csproj.CopyComplete
+Z:\Core Çalışmaları\CoreRabbitMq\Queue\RECEIVE\obj\Debug\netcoreapp2.1\RECEIVE.dll
+Z:\Core Çalışmaları\CoreRabbitMq\Queue\RECEIVE\obj\Debug\netcoreapp2.1\RECEIVE.pdb

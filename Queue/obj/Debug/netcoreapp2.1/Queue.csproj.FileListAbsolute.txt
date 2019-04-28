@@ -1,0 +1,11 @@
+Z:\Core Çalışmaları\CoreRabbitMq\Queue\Queue\bin\Debug\netcoreapp2.1\Queue.deps.json
+Z:\Core Çalışmaları\CoreRabbitMq\Queue\Queue\bin\Debug\netcoreapp2.1\Queue.runtimeconfig.json
+Z:\Core Çalışmaları\CoreRabbitMq\Queue\Queue\bin\Debug\netcoreapp2.1\Queue.runtimeconfig.dev.json
+Z:\Core Çalışmaları\CoreRabbitMq\Queue\Queue\bin\Debug\netcoreapp2.1\Queue.dll
+Z:\Core Çalışmaları\CoreRabbitMq\Queue\Queue\obj\Debug\netcoreapp2.1\Queue.csprojAssemblyReference.cache
+Z:\Core Çalışmaları\CoreRabbitMq\Queue\Queue\obj\Debug\netcoreapp2.1\Queue.csproj.CoreCompileInputs.cache
+Z:\Core Çalışmaları\CoreRabbitMq\Queue\Queue\obj\Debug\netcoreapp2.1\Queue.AssemblyInfoInputs.cache
+Z:\Core Çalışmaları\CoreRabbitMq\Queue\Queue\obj\Debug\netcoreapp2.1\Queue.AssemblyInfo.cs
+Z:\Core Çalışmaları\CoreRabbitMq\Queue\Queue\bin\Debug\netcoreapp2.1\Queue.pdb
+Z:\Core Çalışmaları\CoreRabbitMq\Queue\Queue\obj\Debug\netcoreapp2.1\Queue.dll
+Z:\Core Çalışmaları\CoreRabbitMq\Queue\Queue\obj\Debug\netcoreapp2.1\Queue.pdb
